@@ -1,11 +1,217 @@
 {
-  "posts": [
+  "status": "OK",
+  "code": 200,
+  "total": 10,
+  "data": [
     {
-      "id": 1,
-      "title": "hello"
+      "firstname": "Scotty",
+      "lastname": "Dach",
+      "email": "marks.annamarie@hotmail.com",
+      "phone": "+7796788149068",
+      "birthday": "2012-06-27",
+      "gender": "male",
+      "address": {
+        "street": "75548 Emard Run",
+        "streetName": "Donna Parkway",
+        "buildingNumber": "36359",
+        "city": "Brennaborough",
+        "zipcode": "32290",
+        "country": "Bahrain",
+        "county_code": "SE",
+        "latitude": 56.092426,
+        "longitude": 144.3887
+      },
+      "website": "http://christiansen.com",
+      "image": "http://placeimg.com/640/480/people"
+    },
+    {
+      "firstname": "Carole",
+      "lastname": "Mills",
+      "email": "eyost@yahoo.com",
+      "phone": "+3914919052233",
+      "birthday": "1939-03-09",
+      "gender": "female",
+      "address": {
+        "street": "24690 Velda Turnpike Suite 308",
+        "streetName": "Leonel Lodge",
+        "buildingNumber": "632",
+        "city": "Lefflerfurt",
+        "zipcode": "40443",
+        "country": "Puerto Rico",
+        "county_code": "KP",
+        "latitude": 31.63135,
+        "longitude": 127.208555
+      },
+      "website": "http://buckridge.com",
+      "image": "http://placeimg.com/640/480/people"
+    },
+    {
+      "firstname": "Henriette",
+      "lastname": "McKenzie",
+      "email": "zulauf.graciela@hotmail.com",
+      "phone": "+2009943972138",
+      "birthday": "1952-04-06",
+      "gender": "female",
+      "address": {
+        "street": "57874 Will Lakes",
+        "streetName": "Dan Bypass",
+        "buildingNumber": "7080",
+        "city": "Borisside",
+        "zipcode": "06210-1910",
+        "country": "Zambia",
+        "county_code": "KP",
+        "latitude": -76.865467,
+        "longitude": 148.552147
+      },
+      "website": "http://hauck.com",
+      "image": "http://placeimg.com/640/480/people"
+    },
+    {
+      "firstname": "Bud",
+      "lastname": "Goodwin",
+      "email": "antonette.hackett@emmerich.com",
+      "phone": "+2345433427639",
+      "birthday": "2019-09-19",
+      "gender": "male",
+      "address": {
+        "street": "65333 Maymie Valleys Suite 077",
+        "streetName": "Gleason Circles",
+        "buildingNumber": "35127",
+        "city": "Lake Dannieville",
+        "zipcode": "05405",
+        "country": "Uzbekistan",
+        "county_code": "GD",
+        "latitude": 70.838426,
+        "longitude": 16.115846
+      },
+      "website": "http://ullrich.com",
+      "image": "http://placeimg.com/640/480/people"
+    },
+    {
+      "firstname": "Lou",
+      "lastname": "Barrows",
+      "email": "monahan.kylee@hotmail.com",
+      "phone": "+3850155351977",
+      "birthday": "1968-12-18",
+      "gender": "female",
+      "address": {
+        "street": "327 Adams Street",
+        "streetName": "Mackenzie Run",
+        "buildingNumber": "9370",
+        "city": "Clementineville",
+        "zipcode": "65969-4750",
+        "country": "Israel",
+        "county_code": "EH",
+        "latitude": 6.348341,
+        "longitude": 48.913549
+      },
+      "website": "http://ruecker.com",
+      "image": "http://placeimg.com/640/480/people"
+    },
+    {
+      "firstname": "Libbie",
+      "lastname": "Cronin",
+      "email": "osinski.obie@gmail.com",
+      "phone": "+7589965373141",
+      "birthday": "1974-07-09",
+      "gender": "female",
+      "address": {
+        "street": "331 Abdullah Path",
+        "streetName": "Timothy Course",
+        "buildingNumber": "6757",
+        "city": "Sylvantown",
+        "zipcode": "08219",
+        "country": "Aruba",
+        "county_code": "LU",
+        "latitude": -29.268474,
+        "longitude": 154.697455
+      },
+      "website": "http://kirlin.com",
+      "image": "http://placeimg.com/640/480/people"
+    },
+    {
+      "firstname": "Gabriella",
+      "lastname": "Auer",
+      "email": "ned.jacobson@hotmail.com",
+      "phone": "+9007103528381",
+      "birthday": "1957-10-21",
+      "gender": "female",
+      "address": {
+        "street": "84192 Reichel Route Apt. 024",
+        "streetName": "Khalid Views",
+        "buildingNumber": "8900",
+        "city": "Melanystad",
+        "zipcode": "48306",
+        "country": "Korea",
+        "county_code": "TM",
+        "latitude": 89.769675,
+        "longitude": 4.295796
+      },
+      "website": "http://abbott.org",
+      "image": "http://placeimg.com/640/480/people"
+    },
+    {
+      "firstname": "Karl",
+      "lastname": "Boyle",
+      "email": "gislason.caterina@yahoo.com",
+      "phone": "+7746198378324",
+      "birthday": "1932-12-20",
+      "gender": "male",
+      "address": {
+        "street": "22385 Collins Fall Suite 801",
+        "streetName": "Hessel Green",
+        "buildingNumber": "24523",
+        "city": "Medhurstbury",
+        "zipcode": "65685",
+        "country": "Switzerland",
+        "county_code": "EG",
+        "latitude": 9.171092,
+        "longitude": -141.817854
+      },
+      "website": "http://pfeffer.com",
+      "image": "http://placeimg.com/640/480/people"
+    },
+    {
+      "firstname": "Christopher",
+      "lastname": "Brown",
+      "email": "reta.hackett@hilpert.net",
+      "phone": "+8872275268053",
+      "birthday": "1980-09-18",
+      "gender": "male",
+      "address": {
+        "street": "8832 Vandervort Expressway",
+        "streetName": "Nicolas Harbor",
+        "buildingNumber": "191",
+        "city": "Weissnatstad",
+        "zipcode": "40779-4082",
+        "country": "Anguilla",
+        "county_code": "AE",
+        "latitude": 22.025974,
+        "longitude": 160.28298
+      },
+      "website": "http://langworth.com",
+      "image": "http://placeimg.com/640/480/people"
+    },
+    {
+      "firstname": "Alfonso",
+      "lastname": "Balistreri",
+      "email": "camilla04@hotmail.com",
+      "phone": "+8463672588601",
+      "birthday": "2006-03-09",
+      "gender": "male",
+      "address": {
+        "street": "5641 Josue Harbors",
+        "streetName": "Braeden Walk",
+        "buildingNumber": "87050",
+        "city": "West Travonview",
+        "zipcode": "86504",
+        "country": "Montenegro",
+        "county_code": "NE",
+        "latitude": 36.517369,
+        "longitude": -119.538348
+      },
+      "website": "http://rice.info",
+      "image": "http://placeimg.com/640/480/people"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
